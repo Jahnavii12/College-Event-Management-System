@@ -1,5 +1,12 @@
 # College-Event-Management-System
 
+COLLEGE EVENT MANAGEMENT SYSTEM. 
+• Developed a college event management system using PHP and MySQL. 
+• Designed and implemented database schema for storing event details and participants information. 
+• Implemented user authentication and authorization features. 
+• Integrated functionalities for event creation, registration, and management. 
+• Utilized CSS and Bootstrap for frontend development to enhance user experience. 
+
 Requirements:
 Xampp server to run the project
 
